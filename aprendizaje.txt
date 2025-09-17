@@ -1,0 +1,3 @@
+- Git nos permite tener control de todo los cambios que se hacen en un proyecto, permitiendonos volver a una version anterior si es que se tendria algun problema en un cambio reciente.
+- Es mas eficiente y sistematizado que usar varios archivos tradicionales para guardar los cambio de nuestros.
+- GitHub es una plataforma donde pude subir tus proyetos a internet donde tambien puede ser visto por otras personas y que puedan acceder a tu proyeto si es que les es util, a demas de que te permite colaborar en proyetos de otros personas sin mucha dificualtad gracias a que se trabaja en conjunto con Git. 
